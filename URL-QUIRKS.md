@@ -48,7 +48,7 @@ Added in libcurl 7.88.0.
 
 Build-time requirement.
 
-## Accepting % in host names
+## Accepting %!? in host names
 
 The host name parser has been made stricter over time, with the most recent
 enhancement merged for libcurl 8.0.0.
